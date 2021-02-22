@@ -1,2 +1,1 @@
-# laravue
-my first repository
+Laravue
